@@ -1,2 +1,1 @@
-print("hihi")
-print("hoho")
+print("hello, world")
